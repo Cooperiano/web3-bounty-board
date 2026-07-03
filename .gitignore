@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+# SQLite database + auxiliary files
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+coverage/
+coverage.json
+typechain-types/
+cache/
+artifacts/
+.next/
